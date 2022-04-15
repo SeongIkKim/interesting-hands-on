@@ -2,6 +2,7 @@
 
 ## Network
 - [] [Port를 Listen한다는 것은 무엇을 의미하는가?](https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/)
+- [] [밑바닥부터 구현하는 SMTP 프로토콜 by GO - Gmail에서 이메일 수신하기](https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html)
 
 ## DB
 - [] [postgres가 row를 저장하는 방법](https://ketansingh.me/posts/how-postgres-stores-rows/) 
